@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mdbt50q)(type Legacy)(uri ${KIPRJMOD}/mdbt50q.lib)(options "")(descr ""))
+)
